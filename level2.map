@@ -1,0 +1,13 @@
+{"Wall": {"name": 'WW', "hp": 100, "damage": 1, "speed": 0}, "MetalWall": {"name": 'MM', "hp": -1, "damage": 1, "speed": 0}, "Base": {"name": "BB", "hp": 1, "damage": 1000, "speed": 0},"FriendlyTank": {"name": "TT", "hp": 200, "damage": 55, "speed": 10}, "EnemyTank": [{"name": "E1", "hp": 100, "damage": 29, "image": "./images/EnemyTank.png", "speed": 2}, {"name": "E2", "hp": 120, "damage": 34, "image": "./images/EnemyTank2.png", "speed": 1}]}
+MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM
+MM,E1,  ,  ,E2,  ,  ,E1,  ,  ,E2,  ,  ,E1,  ,  ,E2,  ,  ,E1,MM
+MM,  ,WW,  ,  ,WW,  ,  ,WW,  ,  ,  ,  ,WW,WW,WW,  ,WW,  ,WW,MM
+MM,  ,WW,  ,  ,WW,  ,  ,  ,  ,  ,  ,  ,WW,  ,WW,  ,  ,WW,  ,MM
+MM,  ,WW,MM,MM,WW,  ,  ,MM,  ,  ,  ,  ,WW,WW,  ,  ,  ,WW,  ,MM
+MM,  ,WW,  ,  ,WW,  ,  ,MM,  ,WW,WW,  ,WW,  ,  ,  ,  ,WW,  ,MM
+MM,  ,WW,  ,  ,WW,  ,  ,MM,  ,WW,  ,  ,WW,  ,  ,  ,  ,WW,  ,MM
+MM,  ,  ,  ,  ,  ,  ,  ,  ,  ,TT,  ,  ,  ,  ,  ,  ,  ,  ,  ,MM
+MM,  ,  ,  ,  ,  ,  ,  ,WW,WW,WW,WW,WW,  ,  ,  ,  ,  ,  ,  ,MM
+MM,  ,  ,  ,  ,  ,  ,  ,WW,WW,WW,WW,WW,  ,  ,  ,  ,  ,  ,  ,MM
+MM,  ,  ,  ,  ,  ,  ,  ,WW,WW,BB,WW,WW,  ,  ,  ,  ,  ,  ,  ,MM
+MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM,MM
